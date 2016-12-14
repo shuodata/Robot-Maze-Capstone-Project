@@ -4,6 +4,7 @@ import subprocess
 
 if __name__ == '__main__':
     '''
+    Code reused from Edward Minnett (ed@methodic.io).
     Batch run all of the mazes in the generated_mazes_directory and save the
     results to text files in a CSV format for each maze dimension found.
     '''

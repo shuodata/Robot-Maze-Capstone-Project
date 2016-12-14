@@ -1,4 +1,7 @@
 from navigator import Navigator
+'''
+Code reused from Edward Minnett (ed@methodic.io).
+'''
 
 # Maze 1: Score: 20.667 (17 steps)
 # Maze 2: Score: 28.567 (22 steps)
