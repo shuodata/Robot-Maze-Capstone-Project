@@ -1,7 +1,5 @@
 import numpy as np
-'''
-Code reused from Edward Minnett (ed@methodic.io).
-'''
+
 class Maze(object):
     def __init__(self, filename):
         '''

@@ -1,9 +1,6 @@
 from maze import Maze
 import turtle
 import sys
-'''
-Code reused from Edward Minnett (ed@methodic.io).
-'''
 
 if __name__ == '__main__':
     '''

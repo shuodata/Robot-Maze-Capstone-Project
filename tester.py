@@ -2,9 +2,6 @@ from maze import Maze
 from robot import Robot
 import sys
 
-'''
-Code reused from Edward Minnett (ed@methodic.io).
-'''
 
 # global dictionaries for robot movement and sensing
 dir_sensors = {'u': ['l', 'u', 'r'], 'r': ['u', 'r', 'd'],

@@ -1,6 +1,5 @@
 class Mapper(object):
     '''
-    Code reused from Edward Minnett (ed@methodic.io).
     The Mapper is responsible for maintaining a map of what is known about
     the maze. This is achieved by storing and upding two sets of two-dimensional
     lists. One stores knowledge about the walls and openings in the maze
