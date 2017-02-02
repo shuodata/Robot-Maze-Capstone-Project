@@ -73,3 +73,4 @@ In Notebook format: Plot and Navigate a Virtual Maze.ipynb
 
 In PDF format: Plot and Navigate a Virtual Maze.pdf
 
+ 
